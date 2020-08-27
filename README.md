@@ -1,11 +1,12 @@
 Tic Tac Toe in React 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Classes
 
 - [Game](./src/Game.js) - Main class for Game, it contains state of Game and pass this to Board
 - [Board](./src/Board.js) - Paints Squares and pass click function from Square to Game
-- [Square](./Square.js) - Represent one Square of Tic Tac Toe and propagates click event to parent
+- [Square](./src/Square.js) - Represent one Square of Tic Tac Toe and propagates click event to parent
 
 ### `npm start`
 
